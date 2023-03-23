@@ -5,5 +5,7 @@ O Readme é um arquivo com a extenção "md" que significa MarkDown, que é uma 
 
 Para mais informação sobre essa linguagem:
 ## link Úteis
-[Sintaxe Básica markdown](https://www.markdownguide.org/)
+
+<a href="[http://example.com/](https://www.markdownguide.org/)" target="_blank">[Sintaxe Básica markdown]</a>
+
 
