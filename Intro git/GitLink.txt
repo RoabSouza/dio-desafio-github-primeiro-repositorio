@@ -1,0 +1,12 @@
+Comandos de terminal 
+Listar: dir
+Navegar: cd
+Limpar: cls
+Auto-complete: tab
+criar-pasta: mkdir
+criar-arquivo: echo
+Apagar: del
+Voltar: ..
+Apagar-Def: rmdir S/Q
+Mostrar caminho Pwd
+Mostrar-cont: ls
