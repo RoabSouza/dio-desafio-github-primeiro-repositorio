@@ -7,5 +7,7 @@ Para mais informação sobre essa linguagem:
 ## link Úteis
 [Sintaxe Básica markdown](https://www.markdownguide.org)
 
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+
 
 
